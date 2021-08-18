@@ -1,5 +1,7 @@
 # LetMeAsk
 
+![alt text](https://i.imgur.com/UX24E9D.png)
+
 > App developed in React, to create rooms where the participants can make questions.
 
 ### About the project
