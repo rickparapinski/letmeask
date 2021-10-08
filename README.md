@@ -6,5 +6,5 @@
 
 ### About the project
 
-This is my first project in React, done with the help of Rocketseat. This appis used to create rooms (using firebase auth), where the user can make question, and an admin can answer and highlighted the question.
+This is a "question manager" app. It allow users to create rooms, where this users can make questions (for example, in a livestream). So, the moderator can reply and highlight the questions.
 
